@@ -1,0 +1,110 @@
+#nav1 {
+  border-bottom: 1px solid silver;
+}
+#nav1 div i {
+  color: white;
+  width: 70px;
+  height: 70px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  font-size: 30px;
+  border: 1px solid red;
+}
+
+#nav2 ul li a {
+  color: black;
+}
+
+#firstpart {
+  background-image: url("https://preview.colorlib.com/theme/gym/img/header-bg.jpg.webp");
+  width: 100%;
+  height: 700px;
+}
+#firstpart .row {
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  color: black;
+}
+#firstpart .row .b {
+  font-size: 50px;
+  padding-top: 70px;
+}
+#firstpart .row b {
+  justify-content: center;
+  display: flex;
+  font-size: 50px;
+  color: white;
+}
+
+#secondpart .row {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+#secondpart .row b {
+  font-size: 50px;
+}
+#secondpart .row p {
+  color: gray;
+}
+#secondpart .row .div1 {
+  border: 1px solid white;
+  padding: 10px;
+  box-shadow: 0px 5px 10px red;
+  border-radius: 20px;
+}
+#secondpart .row .div1 img {
+  width: 15%;
+  margin-top: 30px;
+}
+
+#mockapipart .mockapi {
+  display: flex;
+  justify-content: space-around;
+}
+
+#thirdpart {
+  background-image: url("https://preview.colorlib.com/theme/gym/img/callto-bg.jpg.webp");
+  width: 100%;
+  height: 410px;
+}
+#thirdpart .row {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+#thirdpart .row b {
+  color: rgb(254, 251, 251);
+  font-size: 40px;
+  margin-top: 70px;
+}
+#thirdpart .row p {
+  color: rgb(251, 249, 249);
+}
+#thirdpart .row button {
+  width: 180px;
+  height: 50px;
+  border: 1px solid red;
+  border-radius: 30px;
+  background-color: red;
+  font-size: 13px;
+  color: white;
+}
+#thirdpart .row button:hover {
+  background-color: transparent;
+  border: 2px solid red;
+}
+
+#lastpart {
+  display: flex;
+  justify-content: space-between;
+}
+#lastpart div i {
+  font-size: 30px;
+}/*# sourceMappingURL=style.css.map */

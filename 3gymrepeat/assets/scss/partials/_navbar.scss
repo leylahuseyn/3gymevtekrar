@@ -1,0 +1,27 @@
+#nav1{
+    border-bottom: 1px solid silver;
+    div{
+            i{
+            color: white;
+            width: 70px;
+            height: 70px;
+            background-color: red;
+            display: flex;
+            justify-content: center;
+            padding-top: 20px;
+            font-size: 30px;
+            border: 1px solid red;
+            }
+        }
+       
+    }
+
+#nav2{
+    ul{
+        li{
+            a{
+                color: black;
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+#secondpart{
+    .row{
+        display: flex;
+        text-align: center;
+        justify-content: space-around;
+        b{
+            font-size: 50px;
+        }
+        p{
+            color: gray;
+        }
+        .div1{
+            border: 1px solid white;
+            padding: 10px;
+            box-shadow: 0px 5px 10px red;
+            border-radius: 20px;
+        }
+        .div1{
+            img{
+                width: 15%;
+                margin-top: 30px;
+                
+            }
+        }
+    }
+}

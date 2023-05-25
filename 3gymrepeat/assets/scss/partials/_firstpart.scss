@@ -1,0 +1,24 @@
+#firstpart{
+    background-image: url('https://preview.colorlib.com/theme/gym/img/header-bg.jpg.webp');
+    width: 100%;
+    height: 700px;
+    .row{
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            align-items: center;
+            display: flex;
+            color: black;
+           
+        .b{
+            font-size: 50px;
+            padding-top: 70px;
+        }
+        b{ 
+            justify-content: center;
+            display: flex;
+            font-size: 50px; 
+            color: white;
+        }
+    }
+}
